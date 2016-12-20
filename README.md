@@ -6,4 +6,4 @@
 - SnackBars integrated
 
 # Note:-
-For custom implementation <ViewPageSource or f12 in Chrome browser> for any link and change TAGS in LinkScrapper class according to your requirement
+For custom implementation {ViewPageSource or f12 in Chrome browser} for any link and change TAGS in LinkScrapper class according to your requirement
