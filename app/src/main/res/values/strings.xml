@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Carousel</string>
+    <string name="no_network">No network found</string>
+</resources>
