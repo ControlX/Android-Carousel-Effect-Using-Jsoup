@@ -5,4 +5,5 @@
 - Uses ViewPager for Carousel effect
 - SnackBars integrated
 
-[Note: For custom implementation View Source of any link and change tags in LinkScrapper according to your needs.]
+# Note:-
+For custom implementation <ViewPageSource or f12 in Chrome browser> for any link and change TAGS in LinkScrapper class according to your requirement
